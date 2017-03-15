@@ -1,6 +1,6 @@
-REM Installs Square's IntelliJ configs into your user configs.
+REM Installs Kamino's IntelliJ configs into your user configs.
 @echo off
-echo Installing Square IntelliJ configs...
+echo Installing Kamino IntelliJ configs...
 
 setlocal enableDelayedExpansion
 
