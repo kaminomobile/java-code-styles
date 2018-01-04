@@ -4,8 +4,17 @@ Java Code Styles
 IntelliJ IDEA code style settings for Kamino's Java and Android projects.
 
 
+
 Installation
 ------------
+
+Intellij Settings Repository
+============================
+ * Add git remote into Preferences -> Tools -> Settings Repository -> Read Only Sources
+
+
+Install script
+==============
 
  * On Unix, run the `install.sh` script. Windows users should use `install.bat` instead.
  * Restart IntelliJ if it's running.
